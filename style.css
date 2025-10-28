@@ -439,6 +439,7 @@ padding: 10px;
 
 .footer__one h3 {
     margin: 10px;
+    margin-left: 3px;
      font: sans-serif;
      font-weight: lighter;
     
@@ -479,6 +480,7 @@ padding: 10px;
 .footer__two{
     display: flex;    
     justify-content: space-between;
+    margin-top: 10px;
 }
 .footer__two__s1__content{
     display: flex;
@@ -505,6 +507,7 @@ display: block;
 }
 .footer__three{
     display: flex;
+    margin-top: 10px;
 }
 .footer__three__content{
     display: block;
